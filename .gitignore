@@ -1,0 +1,26 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# IDE
+.vscode/
+.idea/
+
+# C/C++
+*.o
+*.so
+*.a
+
+# Temporary files
+*~
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# ROS bags / large recordings
+*.bag
+*.db3
+*.mcap
