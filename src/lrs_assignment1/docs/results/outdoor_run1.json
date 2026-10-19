@@ -1,0 +1,254 @@
+{
+  "bag": "/tmp/lrs-flight-sim/outdoor_run1",
+  "duration_seconds": 614.308379479,
+  "complete": true,
+  "final_armed": false,
+  "final_mode": "LAND",
+  "state_sequence": [
+    {
+      "seconds": 391.485412208,
+      "stage": "SET_MODE"
+    },
+    {
+      "seconds": 391.522693671,
+      "stage": "ARM"
+    },
+    {
+      "seconds": 394.04278674,
+      "stage": "TAKEOFF"
+    },
+    {
+      "seconds": 405.402553221,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 405.442624324,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 413.562500557,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 413.602537928,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 413.642598185,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 424.283054007,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 424.322808994,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 424.362834373,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 436.322630201,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 436.363117806,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 436.403061316,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 447.042729891,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 447.082707647,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 447.122605215,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 458.362696325,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 458.402569908,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 467.842626677,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 472.522673388,
+      "stage": "FIGURE"
+    },
+    {
+      "seconds": 525.642698161,
+      "stage": "FIGURE_END"
+    },
+    {
+      "seconds": 529.962844091,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 531.043347559,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 531.082706566,
+      "stage": "LAND"
+    },
+    {
+      "seconds": 567.002577317,
+      "stage": "DONE"
+    }
+  ],
+  "compass_pose_error_deg": {
+    "samples": 7806,
+    "rms": 0.09671532800481442,
+    "max_abs": 0.9199907318187202,
+    "p95_abs": 0.17932208181017853
+  },
+  "max_height_above_first_pose_m": 5.059999942779541,
+  "max_radius_from_first_pose_m": 3.5016893058682785,
+  "per_stage": {
+    "ARM": {
+      "position_error_m": {
+        "samples": 0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 0
+      }
+    },
+    "DONE": {
+      "position_error_m": {
+        "samples": 300,
+        "rms": 5.0,
+        "max_abs": 5.0,
+        "p95_abs": 5.0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 300,
+        "rms": 0.046674780938599884,
+        "max_abs": 0.046674780938599884,
+        "p95_abs": 0.046674780938599884
+      }
+    },
+    "FIGURE": {
+      "position_error_m": {
+        "samples": 314,
+        "rms": 0.08502624225305475,
+        "max_abs": 0.4300432325324747,
+        "p95_abs": 0.0934323979785928
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 314,
+        "rms": 2.451580066244246,
+        "max_abs": 5.681679883942084,
+        "p95_abs": 4.929388710106817
+      }
+    },
+    "FIGURE_END": {
+      "position_error_m": {
+        "samples": 27,
+        "rms": 0.24129703142990439,
+        "max_abs": 0.4593475834786658,
+        "p95_abs": 0.4446636585206055
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 27,
+        "rms": 0.6353037152457253,
+        "max_abs": 0.8125370623829596,
+        "p95_abs": 0.8078662375190464
+      }
+    },
+    "LAND": {
+      "position_error_m": {
+        "samples": 195,
+        "rms": 2.646406295054842,
+        "max_abs": 5.0,
+        "p95_abs": 5.0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 195,
+        "rms": 0.15809333821660507,
+        "max_abs": 0.41213088266930215,
+        "p95_abs": 0.34126118135070815
+      }
+    },
+    "NAVIGATE": {
+      "position_error_m": {
+        "samples": 489,
+        "rms": 0.5944791693619211,
+        "max_abs": 1.0441031264485503,
+        "p95_abs": 0.8541114158568718
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 489,
+        "rms": 14.583267073182812,
+        "max_abs": 108.9858631755061,
+        "p95_abs": 2.3213027638182466
+      }
+    },
+    "TAKEOFF": {
+      "position_error_m": {
+        "samples": 46,
+        "rms": 2.2308396787199496,
+        "max_abs": 4.5999999940395355,
+        "p95_abs": 4.372499987483025
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 46,
+        "rms": 0.012051012194761984,
+        "max_abs": 0.028742496427499566,
+        "p95_abs": 0.024543313301319335
+      }
+    },
+    "TASK": {
+      "position_error_m": {
+        "samples": 34,
+        "rms": 0.04560533079114728,
+        "max_abs": 0.09502010364331026,
+        "p95_abs": 0.07994879155026119
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 34,
+        "rms": 39.69727374205611,
+        "max_abs": 89.14645357122386,
+        "p95_abs": 85.40350170982987
+      }
+    },
+    "WAIT": {
+      "position_error_m": {
+        "samples": 0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 0
+      }
+    }
+  },
+  "command_timing": {
+    "count": 3323,
+    "median_hz": 24.99896723016909,
+    "largest_gap_seconds": 0.5046517769999923
+  },
+  "figure_extent_m": {
+    "flown_x": 6.067689895629883,
+    "flown_y": 3.105795741081238,
+    "commanded_x": 5.9999348203213065,
+    "commanded_y": 2.9998054577026556
+  },
+  "navigation_poi_error_outside_1m_deg": {
+    "samples": 435,
+    "rms": 1.8342963904994576,
+    "max_abs": 4.857593770745293,
+    "p95_abs": 3.4654740126625043
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "bag": "/tmp/lrs-indoor-sim/indoor_run2",
+  "duration_seconds": 455.871448068,
+  "complete": true,
+  "final_armed": false,
+  "final_mode": "LAND",
+  "state_sequence": [
+    {
+      "seconds": 12.07240279,
+      "stage": "SET_MODE"
+    },
+    {
+      "seconds": 12.111907969,
+      "stage": "ARM"
+    },
+    {
+      "seconds": 14.472204971,
+      "stage": "TAKEOFF"
+    },
+    {
+      "seconds": 27.752072177,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 56.832133513,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 56.871978524,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 62.072369368,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 69.671995214,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 71.511905816,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 90.672036596,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 94.19221499,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 97.592008977,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 106.552074244,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 108.392001924,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 111.912073715,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 113.632284478,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 113.672051909,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 114.911942761,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 124.752089222,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 126.912014008,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 133.352006127,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 133.831903654,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 138.112284639,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 139.592199389,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 162.312007604,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 162.352131966,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 169.831949158,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 199.912023318,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 202.272022733,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 213.471953389,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 213.512058117,
+      "stage": "LAND"
+    },
+    {
+      "seconds": 248.311855402,
+      "stage": "GROUND"
+    },
+    {
+      "seconds": 251.311945195,
+      "stage": "SET_MODE"
+    },
+    {
+      "seconds": 251.391924913,
+      "stage": "ARM"
+    },
+    {
+      "seconds": 255.432189548,
+      "stage": "TAKEOFF"
+    },
+    {
+      "seconds": 268.672111419,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 276.072101013,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 285.312044542,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 288.232035971,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 313.911941695,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 319.951987606,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 324.432014563,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 347.39195464,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 349.992252206,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 391.511985709,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 391.552211744,
+      "stage": "LAND"
+    },
+    {
+      "seconds": 427.111917987,
+      "stage": "DONE"
+    }
+  ],
+  "compass_pose_error_deg": {
+    "samples": 1732,
+    "rms": 0.005453349520683271,
+    "max_abs": 0.010005115845693087,
+    "p95_abs": 0.009404110195400958
+  },
+  "max_height_above_first_pose_m": 4.639999866485596,
+  "max_radius_from_first_pose_m": 11.208598455555462,
+  "per_stage": {
+    "ALIGN": {
+      "position_error_m": {
+        "samples": 183,
+        "rms": 0.08411493613117856,
+        "max_abs": 0.30190404898175754,
+        "p95_abs": 0.19193649764048062
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 183,
+        "rms": 67.90254316554423,
+        "max_abs": 175.87288984048752,
+        "p95_abs": 149.0812137520826
+      }
+    },
+    "ARM": {
+      "position_error_m": {
+        "samples": 16,
+        "rms": 2.000081841287448,
+        "max_abs": 2.000081841287448,
+        "p95_abs": 2.000081841287448
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 16,
+        "rms": 0.05380208333750819,
+        "max_abs": 0.05380208333750819,
+        "p95_abs": 0.05380208333750819
+      }
+    },
+    "DONE": {
+      "position_error_m": {
+        "samples": 108,
+        "rms": 2.000058361814854,
+        "max_abs": 2.000058361814854,
+        "p95_abs": 2.000058361814854
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 108,
+        "rms": 0.0370442142088819,
+        "max_abs": 0.037044214208881904,
+        "p95_abs": 0.037044214208881904
+      }
+    },
+    "GROUND": {
+      "position_error_m": {
+        "samples": 14,
+        "rms": 2.000081841287448,
+        "max_abs": 2.000081841287448,
+        "p95_abs": 2.000081841287448
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 14,
+        "rms": 0.05380208333750819,
+        "max_abs": 0.05380208333750819,
+        "p95_abs": 0.05380208333750819
+      }
+    },
+    "LAND": {
+      "position_error_m": {
+        "samples": 261,
+        "rms": 0.9577856421662292,
+        "max_abs": 2.000081841287448,
+        "p95_abs": 2.000081841287448
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 261,
+        "rms": 0.0550202773545941,
+        "max_abs": 0.18940046243913583,
+        "p95_abs": 0.13178781679007828
+      }
+    },
+    "NAVIGATE": {
+      "position_error_m": {
+        "samples": 989,
+        "rms": 0.5070791452994762,
+        "max_abs": 0.6254332907497746,
+        "p95_abs": 0.6142372168685015
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 989,
+        "rms": 0.46368529420746046,
+        "max_abs": 1.729855373577781,
+        "p95_abs": 1.0609640198557349
+      }
+    },
+    "TAKEOFF": {
+      "position_error_m": {
+        "samples": 69,
+        "rms": 1.3985075368743676,
+        "max_abs": 2.000081841287448,
+        "p95_abs": 2.000081841287448
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 69,
+        "rms": 0.040847438279086545,
+        "max_abs": 0.06432398975391283,
+        "p95_abs": 0.06038228758389848
+      }
+    },
+    "TASK": {
+      "position_error_m": {
+        "samples": 41,
+        "rms": 0.03980289017988151,
+        "max_abs": 0.06530359899362309,
+        "p95_abs": 0.05999640930273608
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 41,
+        "rms": 36.27103364131755,
+        "max_abs": 89.38541593601659,
+        "p95_abs": 82.46439891042097
+      }
+    },
+    "WAIT": {
+      "position_error_m": {
+        "samples": 0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 0
+      }
+    }
+  },
+  "command_timing": {
+    "count": 7961,
+    "median_hz": 25.0013869519432,
+    "largest_gap_seconds": 49.199820684
+  },
+  "navigation_poi_error_outside_1m_deg": {
+    "samples": 963,
+    "rms": 115.4899489671045,
+    "max_abs": 179.99611072490055,
+    "p95_abs": 179.92791734095744
+  }
+}

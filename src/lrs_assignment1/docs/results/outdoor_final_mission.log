@@ -1,0 +1,162 @@
+[INFO] [1791206788.214956396] [mission_control]: Ready: outdoor mission; waiting for connected, fresh ground telemetry
+[INFO] [1791206788.335055801] [mission_control]: Waiting for telemetry: connected=0 local=0 landed=0 gps=0
+[INFO] [1791206793.375095035] [mission_control]: Waiting for telemetry: connected=1 local=1 landed=1 gps=0
+[INFO] [1791206796.655135125] [mission_control]: Geodetic goal 48.151444300 17.073750000 198.704
+[INFO] [1791206796.655228315] [mission_control]: Geodetic goal 48.151466783 17.073716401 198.704
+[INFO] [1791206796.655242711] [mission_control]: Geodetic goal 48.151466783 17.073783599 198.704
+[INFO] [1791206796.655264719] [mission_control]: Geodetic goal 48.151421817 17.073783599 198.704
+[INFO] [1791206796.655280565] [mission_control]: Geodetic goal 48.151421817 17.073716401 198.704
+[INFO] [1791206796.655301034] [mission_control]: Geodetic goal 48.151466783 17.073716401 198.704
+[INFO] [1791206796.655525309] [mission_control]: State: SET_MODE
+[INFO] [1791206796.655678729] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta -0.0 deg
+[INFO] [1791206796.695076753] [mission_control]: State: ARM
+[INFO] [1791206797.695049104] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta -0.0 deg
+[INFO] [1791206798.695178662] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta -0.0 deg
+[INFO] [1791206799.095119007] [mission_control]: State: TAKEOFF
+[INFO] [1791206799.735054810] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta -0.0 deg
+[INFO] [1791206800.735212125] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta -0.0 deg
+[INFO] [1791206801.775068991] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta -0.0 deg
+[INFO] [1791206802.775320428] [mission_control]: GPS 48.151444300 17.073750000 alt 194.21; GPS ENU 0.00 0.00 0.51; local->geo 48.151444300 17.073750000; rel_alt 0.51; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta 0.0 deg
+[INFO] [1791206803.815082287] [mission_control]: GPS 48.151444300 17.073750000 alt 195.69; GPS ENU 0.00 0.00 1.99; local->geo 48.151444300 17.073750000; rel_alt 1.99; compass 0.0 -> ENU 90.0; pose yaw 90.0; delta 0.0 deg
+[INFO] [1791206804.815098920] [mission_control]: GPS 48.151444300 17.073750000 alt 197.65; GPS ENU 0.00 0.00 3.95; local->geo 48.151444300 17.073750000; rel_alt 3.95; compass 360.0 -> ENU 90.0; pose yaw 90.0; delta 0.0 deg
+[INFO] [1791206805.815099116] [mission_control]: GPS 48.151444300 17.073750000 alt 198.65; GPS ENU 0.00 0.00 4.95; local->geo 48.151444300 17.073750000; rel_alt 4.95; compass 360.0 -> ENU 90.0; pose yaw 90.0; delta 0.0 deg
+[INFO] [1791206806.855079853] [mission_control]: GPS 48.151444300 17.073750000 alt 198.72; GPS ENU 0.00 0.00 5.02; local->geo 48.151444300 17.073750000; rel_alt 5.02; compass 360.0 -> ENU 90.0; pose yaw 90.0; delta 0.0 deg
+[INFO] [1791206807.215142821] [mission_control]: State: ALIGN
+[INFO] [1791206807.255089266] [mission_control]: State: NAVIGATE
+[INFO] [1791206807.855090350] [mission_control]: GPS 48.151444400 17.073749700 alt 198.71; GPS ENU -0.02 0.01 5.01; local->geo 48.151444400 17.073749701; rel_alt 5.01; compass 27.4 -> ENU 62.6; pose yaw 62.5; delta -0.0 deg
+[INFO] [1791206808.855114108] [mission_control]: GPS 48.151447100 17.073746000 alt 198.70; GPS ENU -0.30 0.31 5.00; local->geo 48.151447103 17.073746007; rel_alt 5.00; compass 87.7 -> ENU 2.3; pose yaw 2.3; delta -0.0 deg
+[INFO] [1791206809.855115074] [mission_control]: GPS 48.151450300 17.073741100 alt 198.70; GPS ENU -0.66 0.67 5.00; local->geo 48.151450307 17.073741117; rel_alt 5.00; compass 135.0 -> ENU -45.0; pose yaw -45.0; delta -0.0 deg
+[INFO] [1791206810.855156373] [mission_control]: GPS 48.151453900 17.073735700 alt 198.70; GPS ENU -1.06 1.07 5.00; local->geo 48.151453911 17.073735727; rel_alt 5.00; compass 136.2 -> ENU -46.2; pose yaw -46.2; delta -0.0 deg
+[INFO] [1791206811.895087875] [mission_control]: GPS 48.151458000 17.073729600 alt 198.70; GPS ENU -1.52 1.52 5.00; local->geo 48.151458015 17.073729638; rel_alt 5.00; compass 135.9 -> ENU -45.9; pose yaw -45.9; delta -0.0 deg
+[INFO] [1791206812.895085990] [mission_control]: GPS 48.151461800 17.073723800 alt 198.70; GPS ENU -1.95 1.95 5.00; local->geo 48.151461820 17.073723849; rel_alt 5.00; compass 135.8 -> ENU -45.8; pose yaw -45.8; delta -0.0 deg
+[INFO] [1791206813.895095502] [mission_control]: GPS 48.151465400 17.073718400 alt 198.70; GPS ENU -2.35 2.35 5.00; local->geo 48.151465424 17.073718459; rel_alt 5.00; compass 135.5 -> ENU -45.5; pose yaw -45.5; delta -0.0 deg
+[INFO] [1791206814.895093483] [mission_control]: GPS 48.151466300 17.073716900 alt 198.70; GPS ENU -2.46 2.45 5.00; local->geo 48.151466325 17.073716962; rel_alt 5.00; compass 135.3 -> ENU -45.3; pose yaw -45.3; delta -0.0 deg
+[INFO] [1791206815.415094180] [mission_control]: State: TASK
+[INFO] [1791206815.455131983] [mission_control]: State: ALIGN
+[INFO] [1791206815.495091602] [mission_control]: State: NAVIGATE
+[INFO] [1791206815.895127507] [mission_control]: GPS 48.151466600 17.073716800 alt 198.70; GPS ENU -2.47 2.48 5.00; local->geo 48.151466625 17.073716862; rel_alt 5.00; compass 135.5 -> ENU -45.5; pose yaw -45.5; delta -0.0 deg
+[INFO] [1791206816.935121697] [mission_control]: GPS 48.151466600 17.073720800 alt 198.70; GPS ENU -2.17 2.48 5.00; local->geo 48.151466625 17.073720854; rel_alt 5.00; compass 138.2 -> ENU -48.2; pose yaw -48.2; delta -0.0 deg
+[INFO] [1791206817.975125533] [mission_control]: GPS 48.151466600 17.073729300 alt 198.69; GPS ENU -1.54 2.48 4.99; local->geo 48.151466625 17.073729339; rel_alt 4.99; compass 146.5 -> ENU -56.5; pose yaw -56.5; delta -0.0 deg
+[INFO] [1791206818.975154548] [mission_control]: GPS 48.151466600 17.073736900 alt 198.67; GPS ENU -0.97 2.48 4.97; local->geo 48.151466625 17.073736924; rel_alt 4.97; compass 156.6 -> ENU -66.6; pose yaw -66.6; delta -0.0 deg
+[INFO] [1791206819.975266736] [mission_control]: GPS 48.151466600 17.073744800 alt 198.67; GPS ENU -0.39 2.48 4.97; local->geo 48.151466625 17.073744810; rel_alt 4.97; compass 168.9 -> ENU -78.9; pose yaw -78.9; delta -0.0 deg
+[INFO] [1791206821.015095326] [mission_control]: GPS 48.151466600 17.073753000 alt 198.67; GPS ENU 0.22 2.48 4.97; local->geo 48.151466625 17.073752994; rel_alt 4.97; compass 182.7 -> ENU -92.7; pose yaw -92.7; delta 0.0 deg
+[INFO] [1791206822.055103015] [mission_control]: GPS 48.151466600 17.073761100 alt 198.67; GPS ENU 0.83 2.48 4.97; local->geo 48.151466625 17.073761079; rel_alt 4.97; compass 196.1 -> ENU -106.1; pose yaw -106.0; delta 0.0 deg
+[INFO] [1791206823.095092022] [mission_control]: GPS 48.151466700 17.073770000 alt 198.67; GPS ENU 1.49 2.49 4.97; local->geo 48.151466725 17.073769963; rel_alt 4.98; compass 209.5 -> ENU -119.5; pose yaw -119.5; delta 0.0 deg
+[INFO] [1791206824.095093665] [mission_control]: GPS 48.151466700 17.073778000 alt 198.67; GPS ENU 2.08 2.49 4.97; local->geo 48.151466725 17.073777948; rel_alt 4.98; compass 219.0 -> ENU -129.0; pose yaw -129.0; delta 0.0 deg
+[INFO] [1791206825.095105493] [mission_control]: GPS 48.151466700 17.073782500 alt 198.67; GPS ENU 2.42 2.49 4.97; local->geo 48.151466725 17.073782439; rel_alt 4.98; compass 224.2 -> ENU -134.2; pose yaw -134.2; delta 0.0 deg
+[INFO] [1791206825.975259944] [mission_control]: State: TASK
+[INFO] [1791206826.015087141] [mission_control]: State: ALIGN
+[INFO] [1791206826.055108441] [mission_control]: State: NAVIGATE
+[INFO] [1791206826.095145560] [mission_control]: GPS 48.151466700 17.073783100 alt 198.67; GPS ENU 2.46 2.49 4.97; local->geo 48.151466725 17.073783038; rel_alt 4.98; compass 224.8 -> ENU -134.8; pose yaw -134.8; delta 0.0 deg
+[INFO] [1791206827.135087639] [mission_control]: GPS 48.151465600 17.073783100 alt 198.67; GPS ENU 2.46 2.37 4.97; local->geo 48.151465624 17.073783038; rel_alt 4.97; compass 225.7 -> ENU -135.7; pose yaw -135.7; delta 0.0 deg
+[INFO] [1791206828.135208234] [mission_control]: GPS 48.151460700 17.073783100 alt 198.67; GPS ENU 2.46 1.82 4.97; local->geo 48.151460719 17.073783038; rel_alt 4.98; compass 232.2 -> ENU -142.2; pose yaw -142.2; delta 0.0 deg
+[INFO] [1791206829.175107904] [mission_control]: GPS 48.151455100 17.073783300 alt 198.69; GPS ENU 2.48 1.20 4.99; local->geo 48.151455112 17.073783238; rel_alt 4.99; compass 242.0 -> ENU -152.0; pose yaw -152.0; delta 0.0 deg
+[INFO] [1791206830.175123117] [mission_control]: GPS 48.151449900 17.073783300 alt 198.69; GPS ENU 2.48 0.62 4.99; local->geo 48.151449906 17.073783238; rel_alt 4.99; compass 253.7 -> ENU -163.7; pose yaw -163.7; delta 0.0 deg
+[INFO] [1791206831.215100473] [mission_control]: GPS 48.151444600 17.073783300 alt 198.69; GPS ENU 2.48 0.03 4.99; local->geo 48.151444600 17.073783238; rel_alt 4.99; compass 266.7 -> ENU -176.7; pose yaw -176.7; delta 0.0 deg
+[INFO] [1791206832.255116319] [mission_control]: GPS 48.151439200 17.073783400 alt 198.69; GPS ENU 2.49 -0.57 4.99; local->geo 48.151439194 17.073783338; rel_alt 4.99; compass 280.5 -> ENU 169.5; pose yaw 169.5; delta 0.0 deg
+[INFO] [1791206833.255107423] [mission_control]: GPS 48.151433800 17.073783400 alt 198.70; GPS ENU 2.49 -1.17 5.00; local->geo 48.151433788 17.073783338; rel_alt 5.00; compass 293.8 -> ENU 156.2; pose yaw 156.2; delta 0.0 deg
+[INFO] [1791206834.295173561] [mission_control]: GPS 48.151427800 17.073783600 alt 198.70; GPS ENU 2.50 -1.83 5.00; local->geo 48.151427781 17.073783537; rel_alt 5.00; compass 305.3 -> ENU 144.7; pose yaw 144.7; delta 0.0 deg
+[INFO] [1791206835.335100726] [mission_control]: GPS 48.151423300 17.073783700 alt 198.70; GPS ENU 2.51 -2.34 5.00; local->geo 48.151423276 17.073783637; rel_alt 5.00; compass 312.8 -> ENU 137.2; pose yaw 137.3; delta 0.0 deg
+[INFO] [1791206836.375068250] [mission_control]: GPS 48.151422400 17.073783700 alt 198.70; GPS ENU 2.51 -2.44 5.00; local->geo 48.151422375 17.073783637; rel_alt 5.00; compass 314.6 -> ENU 135.4; pose yaw 135.4; delta -0.0 deg
+[INFO] [1791206836.615082495] [mission_control]: State: TASK
+[INFO] [1791206836.655119037] [mission_control]: State: ALIGN
+[INFO] [1791206836.695074041] [mission_control]: State: NAVIGATE
+[INFO] [1791206837.375151714] [mission_control]: GPS 48.151422200 17.073783100 alt 198.69; GPS ENU 2.46 -2.46 4.99; local->geo 48.151422175 17.073783038; rel_alt 4.99; compass 315.1 -> ENU 134.9; pose yaw 134.9; delta 0.0 deg
+[INFO] [1791206838.415081564] [mission_control]: GPS 48.151422200 17.073777300 alt 198.69; GPS ENU 2.03 -2.46 4.99; local->geo 48.151422175 17.073777249; rel_alt 4.99; compass 319.5 -> ENU 130.5; pose yaw 130.5; delta 0.0 deg
+[INFO] [1791206839.415112537] [mission_control]: GPS 48.151422200 17.073769600 alt 198.69; GPS ENU 1.46 -2.46 4.99; local->geo 48.151422175 17.073769563; rel_alt 4.99; compass 328.0 -> ENU 122.0; pose yaw 122.0; delta 0.0 deg
+[INFO] [1791206840.455087092] [mission_control]: GPS 48.151422200 17.073762000 alt 198.69; GPS ENU 0.89 -2.46 4.99; local->geo 48.151422175 17.073761978; rel_alt 4.99; compass 338.2 -> ENU 111.8; pose yaw 111.8; delta 0.0 deg
+[INFO] [1791206841.455161464] [mission_control]: GPS 48.151422100 17.073754000 alt 198.69; GPS ENU 0.30 -2.47 4.99; local->geo 48.151422075 17.073753993; rel_alt 4.99; compass 350.8 -> ENU 99.2; pose yaw 99.2; delta 0.0 deg
+[INFO] [1791206842.495104000] [mission_control]: GPS 48.151421900 17.073745100 alt 198.69; GPS ENU -0.36 -2.49 4.99; local->geo 48.151421875 17.073745109; rel_alt 4.99; compass 5.9 -> ENU 84.1; pose yaw 84.1; delta -0.0 deg
+[INFO] [1791206843.495107740] [mission_control]: GPS 48.151421900 17.073736900 alt 198.69; GPS ENU -0.97 -2.49 4.99; local->geo 48.151421875 17.073736924; rel_alt 4.99; compass 19.2 -> ENU 70.8; pose yaw 70.8; delta -0.0 deg
+[INFO] [1791206844.495133029] [mission_control]: GPS 48.151421900 17.073728900 alt 198.69; GPS ENU -1.57 -2.49 4.99; local->geo 48.151421875 17.073728939; rel_alt 4.99; compass 30.4 -> ENU 59.6; pose yaw 59.5; delta -0.0 deg
+[INFO] [1791206845.535122929] [mission_control]: GPS 48.151421900 17.073720800 alt 198.69; GPS ENU -2.17 -2.49 4.99; local->geo 48.151421875 17.073720854; rel_alt 4.99; compass 39.7 -> ENU 50.3; pose yaw 50.3; delta -0.0 deg
+[INFO] [1791206846.535123880] [mission_control]: GPS 48.151421900 17.073717400 alt 198.69; GPS ENU -2.43 -2.49 4.99; local->geo 48.151421875 17.073717461; rel_alt 4.99; compass 44.4 -> ENU 45.6; pose yaw 45.6; delta -0.0 deg
+[INFO] [1791206847.335082263] [mission_control]: State: TASK
+[INFO] [1791206847.375096286] [mission_control]: State: ALIGN
+[INFO] [1791206847.415087410] [mission_control]: State: NAVIGATE
+[INFO] [1791206847.575126264] [mission_control]: GPS 48.151421900 17.073716900 alt 198.69; GPS ENU -2.46 -2.49 4.99; local->geo 48.151421875 17.073716962; rel_alt 4.99; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206848.575347757] [mission_control]: GPS 48.151423300 17.073716900 alt 198.69; GPS ENU -2.46 -2.34 4.99; local->geo 48.151423276 17.073716962; rel_alt 4.99; compass 46.0 -> ENU 44.0; pose yaw 44.0; delta -0.0 deg
+[INFO] [1791206849.615124783] [mission_control]: GPS 48.151428600 17.073716700 alt 198.70; GPS ENU -2.48 -1.75 5.00; local->geo 48.151428582 17.073716762; rel_alt 5.00; compass 53.7 -> ENU 36.3; pose yaw 36.3; delta -0.0 deg
+[INFO] [1791206850.655271507] [mission_control]: GPS 48.151433900 17.073716700 alt 198.70; GPS ENU -2.48 -1.16 5.00; local->geo 48.151433888 17.073716762; rel_alt 5.00; compass 63.0 -> ENU 27.0; pose yaw 27.0; delta -0.0 deg
+[INFO] [1791206851.695090633] [mission_control]: GPS 48.151439500 17.073716700 alt 198.69; GPS ENU -2.48 -0.53 4.99; local->geo 48.151439495 17.073716762; rel_alt 4.99; compass 75.5 -> ENU 14.5; pose yaw 14.5; delta -0.0 deg
+[INFO] [1791206852.735082953] [mission_control]: GPS 48.151444900 17.073716600 alt 198.69; GPS ENU -2.49 0.07 4.99; local->geo 48.151444901 17.073716662; rel_alt 4.99; compass 88.7 -> ENU 1.3; pose yaw 1.3; delta -0.0 deg
+[INFO] [1791206853.735123444] [mission_control]: GPS 48.151450300 17.073716600 alt 198.70; GPS ENU -2.49 0.67 5.00; local->geo 48.151450307 17.073716662; rel_alt 5.00; compass 102.7 -> ENU -12.7; pose yaw -12.7; delta -0.0 deg
+[INFO] [1791206854.735173535] [mission_control]: GPS 48.151455800 17.073716500 alt 198.70; GPS ENU -2.49 1.28 5.00; local->geo 48.151455813 17.073716562; rel_alt 5.00; compass 115.1 -> ENU -25.1; pose yaw -25.1; delta -0.0 deg
+[INFO] [1791206855.775160037] [mission_control]: GPS 48.151461100 17.073716400 alt 198.70; GPS ENU -2.50 1.87 5.00; local->geo 48.151461119 17.073716463; rel_alt 5.00; compass 125.5 -> ENU -35.5; pose yaw -35.5; delta -0.0 deg
+[INFO] [1791206856.815097042] [mission_control]: GPS 48.151465500 17.073716400 alt 198.70; GPS ENU -2.50 2.36 5.00; local->geo 48.151465524 17.073716463; rel_alt 5.00; compass 132.9 -> ENU -42.9; pose yaw -43.0; delta -0.0 deg
+[INFO] [1791206857.855085359] [mission_control]: GPS 48.151466200 17.073716300 alt 198.70; GPS ENU -2.51 2.44 5.00; local->geo 48.151466225 17.073716363; rel_alt 5.00; compass 134.6 -> ENU -44.6; pose yaw -44.6; delta -0.0 deg
+[INFO] [1791206858.095089646] [mission_control]: State: TASK
+[INFO] [1791206858.135223590] [mission_control]: State: NAVIGATE
+[INFO] [1791206858.855115860] [mission_control]: GPS 48.151466200 17.073716700 alt 198.69; GPS ENU -2.48 2.44 4.99; local->geo 48.151466225 17.073716762; rel_alt 4.99; compass 134.6 -> ENU -44.6; pose yaw -44.6; delta -0.0 deg
+[INFO] [1791206859.895088001] [mission_control]: GPS 48.151463400 17.073720800 alt 198.69; GPS ENU -2.17 2.12 4.99; local->geo 48.151463422 17.073720854; rel_alt 4.99; compass 134.6 -> ENU -44.6; pose yaw -44.6; delta -0.0 deg
+[INFO] [1791206860.935087198] [mission_control]: GPS 48.151459400 17.073726900 alt 198.69; GPS ENU -1.72 1.68 4.99; local->geo 48.151459417 17.073726943; rel_alt 4.99; compass 134.5 -> ENU -44.5; pose yaw -44.5; delta -0.0 deg
+[INFO] [1791206861.935082604] [mission_control]: GPS 48.151455800 17.073732400 alt 198.69; GPS ENU -1.31 1.28 4.99; local->geo 48.151455813 17.073732433; rel_alt 4.99; compass 134.5 -> ENU -44.5; pose yaw -44.5; delta -0.0 deg
+[INFO] [1791206862.935091426] [mission_control]: GPS 48.151452100 17.073738100 alt 198.70; GPS ENU -0.89 0.87 5.00; local->geo 48.151452109 17.073738122; rel_alt 5.00; compass 134.4 -> ENU -44.4; pose yaw -44.4; delta -0.0 deg
+[INFO] [1791206863.975180162] [mission_control]: GPS 48.151448300 17.073743900 alt 198.70; GPS ENU -0.45 0.44 5.00; local->geo 48.151448305 17.073743911; rel_alt 5.00; compass 134.4 -> ENU -44.4; pose yaw -44.4; delta -0.0 deg
+[INFO] [1791206865.015103716] [mission_control]: GPS 48.151445200 17.073748700 alt 198.70; GPS ENU -0.10 0.10 5.00; local->geo 48.151445201 17.073748702; rel_alt 5.00; compass 134.4 -> ENU -44.4; pose yaw -44.4; delta -0.0 deg
+[INFO] [1791206866.015128552] [mission_control]: GPS 48.151444700 17.073749400 alt 198.70; GPS ENU -0.04 0.04 5.00; local->geo 48.151444700 17.073749401; rel_alt 5.00; compass 134.4 -> ENU -44.4; pose yaw -44.4; delta -0.0 deg
+[INFO] [1791206866.255165218] [mission_control]: State: TASK
+[INFO] [1791206867.015145613] [mission_control]: GPS 48.151444400 17.073749700 alt 198.70; GPS ENU -0.02 0.01 5.00; local->geo 48.151444400 17.073749701; rel_alt 5.00; compass 106.5 -> ENU -16.5; pose yaw -16.5; delta -0.0 deg
+[INFO] [1791206868.055181023] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 45.9 -> ENU 44.1; pose yaw 44.1; delta -0.0 deg
+[INFO] [1791206869.095180928] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 44.2 -> ENU 45.8; pose yaw 45.7; delta -0.0 deg
+[INFO] [1791206869.975090601] [mission_control]: State: FIGURE
+[INFO] [1791206870.135067618] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 44.4 -> ENU 45.6; pose yaw 45.6; delta -0.0 deg
+[INFO] [1791206871.135161281] [mission_control]: GPS 48.151448500 17.073756400 alt 198.70; GPS ENU 0.48 0.47 5.00; local->geo 48.151448505 17.073756388; rel_alt 5.00; compass 46.3 -> ENU 43.7; pose yaw 43.7; delta -0.0 deg
+[INFO] [1791206872.175237130] [mission_control]: GPS 48.151455200 17.073767200 alt 198.70; GPS ENU 1.28 1.21 5.00; local->geo 48.151455212 17.073767168; rel_alt 5.00; compass 52.8 -> ENU 37.2; pose yaw 37.2; delta -0.0 deg
+[INFO] [1791206873.215086743] [mission_control]: GPS 48.151457800 17.073774000 alt 198.70; GPS ENU 1.79 1.50 5.00; local->geo 48.151457815 17.073773955; rel_alt 5.00; compass 66.5 -> ENU 23.6; pose yaw 23.5; delta -0.0 deg
+[INFO] [1791206874.215104384] [mission_control]: GPS 48.151458100 17.073780000 alt 198.70; GPS ENU 2.23 1.53 5.00; local->geo 48.151458116 17.073779944; rel_alt 5.00; compass 92.3 -> ENU -2.3; pose yaw -2.3; delta -0.0 deg
+[INFO] [1791206875.255091248] [mission_control]: GPS 48.151456400 17.073785300 alt 198.70; GPS ENU 2.63 1.35 5.00; local->geo 48.151456414 17.073785234; rel_alt 5.00; compass 130.7 -> ENU -40.7; pose yaw -40.7; delta -0.0 deg
+[INFO] [1791206876.255283090] [mission_control]: GPS 48.151452800 17.073788900 alt 198.70; GPS ENU 2.89 0.95 5.00; local->geo 48.151452810 17.073788827; rel_alt 5.00; compass 156.5 -> ENU -66.5; pose yaw -66.5; delta -0.0 deg
+[INFO] [1791206877.295118639] [mission_control]: GPS 48.151447800 17.073790600 alt 198.70; GPS ENU 3.02 0.39 5.00; local->geo 48.151447804 17.073790524; rel_alt 5.00; compass 172.0 -> ENU -82.0; pose yaw -82.0; delta -0.0 deg
+[INFO] [1791206878.335146288] [mission_control]: GPS 48.151441600 17.073790700 alt 198.70; GPS ENU 3.03 -0.30 5.00; local->geo 48.151441597 17.073790624; rel_alt 5.00; compass 185.0 -> ENU -95.0; pose yaw -95.0; delta 0.0 deg
+[INFO] [1791206879.375101430] [mission_control]: GPS 48.151436400 17.073789100 alt 198.70; GPS ENU 2.91 -0.88 5.00; local->geo 48.151436391 17.073789027; rel_alt 5.00; compass 198.2 -> ENU -108.2; pose yaw -108.2; delta 0.0 deg
+[INFO] [1791206880.375091676] [mission_control]: GPS 48.151432600 17.073785800 alt 198.70; GPS ENU 2.66 -1.30 5.00; local->geo 48.151432587 17.073785733; rel_alt 5.00; compass 218.4 -> ENU -128.4; pose yaw -128.4; delta 0.0 deg
+[INFO] [1791206881.375255738] [mission_control]: GPS 48.151430400 17.073781300 alt 198.70; GPS ENU 2.33 -1.55 5.00; local->geo 48.151430384 17.073781242; rel_alt 5.00; compass 250.0 -> ENU -160.0; pose yaw -160.0; delta 0.0 deg
+[INFO] [1791206882.415132099] [mission_control]: GPS 48.151430600 17.073775400 alt 198.70; GPS ENU 1.89 -1.52 5.00; local->geo 48.151430585 17.073775353; rel_alt 5.00; compass 283.2 -> ENU 166.8; pose yaw 166.8; delta 0.0 deg
+[INFO] [1791206883.455093402] [mission_control]: GPS 48.151433200 17.073767800 alt 198.70; GPS ENU 1.32 -1.23 5.00; local->geo 48.151433187 17.073767767; rel_alt 5.00; compass 304.0 -> ENU 146.0; pose yaw 146.0; delta 0.0 deg
+[INFO] [1791206884.495089981] [mission_control]: GPS 48.151437500 17.073760200 alt 198.70; GPS ENU 0.76 -0.76 5.00; local->geo 48.151437492 17.073760181; rel_alt 5.00; compass 312.4 -> ENU 137.6; pose yaw 137.6; delta 0.0 deg
+[INFO] [1791206885.535092621] [mission_control]: GPS 48.151442600 17.073752100 alt 198.70; GPS ENU 0.16 -0.19 5.00; local->geo 48.151442598 17.073752096; rel_alt 5.00; compass 315.5 -> ENU 134.5; pose yaw 134.5; delta 0.0 deg
+[INFO] [1791206886.535163890] [mission_control]: GPS 48.151448300 17.073743900 alt 198.70; GPS ENU -0.45 0.44 5.00; local->geo 48.151448305 17.073743911; rel_alt 5.00; compass 314.9 -> ENU 135.0; pose yaw 135.1; delta 0.0 deg
+[INFO] [1791206887.575155941] [mission_control]: GPS 48.151453700 17.073735300 alt 198.70; GPS ENU -1.09 1.05 5.00; local->geo 48.151453711 17.073735327; rel_alt 5.00; compass 309.8 -> ENU 140.2; pose yaw 140.2; delta 0.0 deg
+[INFO] [1791206888.615176288] [mission_control]: GPS 48.151457000 17.073728100 alt 198.70; GPS ENU -1.63 1.41 5.00; local->geo 48.151457014 17.073728141; rel_alt 5.00; compass 298.8 -> ENU 151.2; pose yaw 151.2; delta 0.0 deg
+[INFO] [1791206889.615181553] [mission_control]: GPS 48.151458200 17.073721700 alt 198.70; GPS ENU -2.11 1.55 5.00; local->geo 48.151458216 17.073721753; rel_alt 5.00; compass 277.1 -> ENU 172.8; pose yaw 172.9; delta 0.0 deg
+[INFO] [1791206890.655088726] [mission_control]: GPS 48.151457200 17.073716000 alt 198.70; GPS ENU -2.53 1.43 5.00; local->geo 48.151457215 17.073716063; rel_alt 5.00; compass 239.7 -> ENU -149.7; pose yaw -149.7; delta 0.0 deg
+[INFO] [1791206891.695124508] [mission_control]: GPS 48.151454000 17.073712200 alt 198.70; GPS ENU -2.81 1.08 5.00; local->geo 48.151454011 17.073712270; rel_alt 5.00; compass 210.0 -> ENU -120.0; pose yaw -120.0; delta 0.0 deg
+[INFO] [1791206892.735084737] [mission_control]: GPS 48.151449400 17.073709900 alt 198.70; GPS ENU -2.98 0.57 5.00; local->geo 48.151449406 17.073709975; rel_alt 5.00; compass 192.1 -> ENU -102.1; pose yaw -102.1; delta 0.0 deg
+[INFO] [1791206893.775282845] [mission_control]: GPS 48.151443400 17.073709200 alt 198.70; GPS ENU -3.04 -0.10 5.00; local->geo 48.151443399 17.073709276; rel_alt 5.00; compass 178.5 -> ENU -88.5; pose yaw -88.5; delta -0.0 deg
+[INFO] [1791206894.815099188] [mission_control]: GPS 48.151438000 17.073710200 alt 198.70; GPS ENU -2.96 -0.70 5.00; local->geo 48.151437993 17.073710274; rel_alt 5.00; compass 166.2 -> ENU -76.2; pose yaw -76.2; delta -0.0 deg
+[INFO] [1791206895.855112213] [mission_control]: GPS 48.151433300 17.073713500 alt 198.70; GPS ENU -2.72 -1.22 5.00; local->geo 48.151433288 17.073713568; rel_alt 5.00; compass 146.6 -> ENU -56.6; pose yaw -56.6; delta -0.0 deg
+[INFO] [1791206896.895123525] [mission_control]: GPS 48.151430800 17.073717800 alt 198.70; GPS ENU -2.40 -1.50 5.00; local->geo 48.151430785 17.073717860; rel_alt 5.00; compass 117.3 -> ENU -27.3; pose yaw -27.3; delta -0.0 deg
+[INFO] [1791206897.895125457] [mission_control]: GPS 48.151430400 17.073723200 alt 198.70; GPS ENU -1.99 -1.55 5.00; local->geo 48.151430384 17.073723250; rel_alt 5.00; compass 82.7 -> ENU 7.4; pose yaw 7.3; delta -0.0 deg
+[INFO] [1791206898.895153791] [mission_control]: GPS 48.151432200 17.073729900 alt 198.70; GPS ENU -1.50 -1.35 5.00; local->geo 48.151432186 17.073729937; rel_alt 5.00; compass 60.1 -> ENU 29.9; pose yaw 29.9; delta -0.0 deg
+[INFO] [1791206899.935129618] [mission_control]: GPS 48.151435900 17.073737400 alt 198.70; GPS ENU -0.94 -0.93 5.00; local->geo 48.151435891 17.073737423; rel_alt 5.00; compass 49.3 -> ENU 40.7; pose yaw 40.7; delta -0.0 deg
+[INFO] [1791206900.975215082] [mission_control]: GPS 48.151441600 17.073746200 alt 198.70; GPS ENU -0.28 -0.30 5.00; local->geo 48.151441597 17.073746207; rel_alt 5.00; compass 44.7 -> ENU 45.3; pose yaw 45.3; delta -0.0 deg
+[INFO] [1791206901.415078701] [mission_control]: State: FIGURE_END
+[INFO] [1791206902.015094117] [mission_control]: GPS 48.151446700 17.073753900 alt 198.70; GPS ENU 0.29 0.27 5.00; local->geo 48.151446703 17.073753893; rel_alt 5.00; compass 44.2 -> ENU 45.8; pose yaw 45.8; delta -0.0 deg
+[INFO] [1791206903.055011448] [mission_control]: GPS 48.151444700 17.073750600 alt 198.70; GPS ENU 0.04 0.04 5.00; local->geo 48.151444901 17.073751098; rel_alt 5.00; compass 44.4 -> ENU 45.6; pose yaw 45.6; delta 0.0 deg
+[INFO] [1791206904.055066745] [mission_control]: GPS 48.151444100 17.073749700 alt 198.70; GPS ENU -0.02 -0.02 5.00; local->geo 48.151444100 17.073749701; rel_alt 5.00; compass 44.5 -> ENU 45.5; pose yaw 45.5; delta 0.0 deg
+[INFO] [1791206904.455158697] [mission_control]: State: NAVIGATE
+[INFO] [1791206905.055106090] [mission_control]: GPS 48.151444400 17.073750300 alt 198.70; GPS ENU 0.02 0.01 5.00; local->geo 48.151444300 17.073750299; rel_alt 5.00; compass 44.6 -> ENU 45.4; pose yaw 45.4; delta 0.0 deg
+[INFO] [1791206905.495119643] [mission_control]: State: TASK
+[INFO] [1791206905.535080666] [mission_control]: State: LAND
+[INFO] [1791206906.095048812] [mission_control]: GPS 48.151444400 17.073750300 alt 198.70; GPS ENU 0.02 0.01 5.00; local->geo 48.151444400 17.073750299; rel_alt 5.00; compass 44.6 -> ENU 45.4; pose yaw 45.4; delta -0.0 deg
+[INFO] [1791206907.095049153] [mission_control]: GPS 48.151444400 17.073750000 alt 198.70; GPS ENU 0.00 0.01 5.00; local->geo 48.151444400 17.073750000; rel_alt 5.00; compass 44.7 -> ENU 45.3; pose yaw 45.3; delta -0.0 deg
+[INFO] [1791206908.095049608] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 44.7 -> ENU 45.3; pose yaw 45.3; delta -0.0 deg
+[INFO] [1791206909.135099509] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 44.8 -> ENU 45.2; pose yaw 45.2; delta -0.0 deg
+[INFO] [1791206910.135113741] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 44.8 -> ENU 45.2; pose yaw 45.2; delta -0.0 deg
+[INFO] [1791206911.175064059] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 44.8 -> ENU 45.2; pose yaw 45.2; delta -0.0 deg
+[INFO] [1791206912.215098643] [mission_control]: GPS 48.151444300 17.073750000 alt 198.70; GPS ENU 0.00 0.00 5.00; local->geo 48.151444300 17.073750000; rel_alt 5.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206913.255050384] [mission_control]: GPS 48.151444300 17.073750000 alt 198.61; GPS ENU 0.00 0.00 4.91; local->geo 48.151444300 17.073750000; rel_alt 4.91; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206914.295047695] [mission_control]: GPS 48.151444300 17.073750000 alt 198.06; GPS ENU 0.00 0.00 4.36; local->geo 48.151444300 17.073750000; rel_alt 4.36; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206915.295089489] [mission_control]: GPS 48.151444300 17.073750000 alt 197.55; GPS ENU 0.00 0.00 3.85; local->geo 48.151444300 17.073750000; rel_alt 3.85; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206916.335050315] [mission_control]: GPS 48.151444300 17.073750000 alt 197.05; GPS ENU 0.00 0.00 3.35; local->geo 48.151444300 17.073750000; rel_alt 3.35; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206917.335094740] [mission_control]: GPS 48.151444300 17.073750000 alt 196.56; GPS ENU 0.00 0.00 2.86; local->geo 48.151444300 17.073750000; rel_alt 2.86; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206918.375068438] [mission_control]: GPS 48.151444300 17.073750000 alt 196.00; GPS ENU 0.00 0.00 2.30; local->geo 48.151444300 17.073750000; rel_alt 2.30; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206919.375076249] [mission_control]: GPS 48.151444300 17.073750000 alt 195.51; GPS ENU 0.00 0.00 1.81; local->geo 48.151444300 17.073750000; rel_alt 1.81; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206920.415052772] [mission_control]: GPS 48.151444300 17.073750000 alt 195.00; GPS ENU 0.00 0.00 1.30; local->geo 48.151444300 17.073750000; rel_alt 1.30; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206921.455052522] [mission_control]: GPS 48.151444300 17.073750000 alt 194.51; GPS ENU 0.00 0.00 0.81; local->geo 48.151444300 17.073750000; rel_alt 0.81; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206922.455171511] [mission_control]: GPS 48.151444300 17.073750000 alt 194.01; GPS ENU 0.00 0.00 0.31; local->geo 48.151444300 17.073750000; rel_alt 0.31; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206923.495046229] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206924.495098438] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791206925.215085494] [mission_control]: State: DONE
+[INFO] [1791206950.215449394] [rclcpp]: signal_handler(SIGINT/SIGTERM)

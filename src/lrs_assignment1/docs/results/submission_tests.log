@@ -1,0 +1,47 @@
+Starting >>> lrs_assignment1
+UpdateCTestConfiguration  from :/tmp/lrs-submission-clone-20261019/build/lrs_assignment1/CTestConfiguration.ini
+Parse Config file:/tmp/lrs-submission-clone-20261019/build/lrs_assignment1/CTestConfiguration.ini
+   Site: drones
+   Build name: (empty)
+ Add coverage exclude regular expressions.
+Create new tag: 20261019-0857 - Experimental
+UpdateCTestConfiguration  from :/tmp/lrs-submission-clone-20261019/build/lrs_assignment1/CTestConfiguration.ini
+Parse Config file:/tmp/lrs-submission-clone-20261019/build/lrs_assignment1/CTestConfiguration.ini
+Test project /tmp/lrs-submission-clone-20261019/build/lrs_assignment1
+Constructing a list of tests
+Done constructing a list of tests
+Updating test list for fixtures
+Added 0 tests to meet fixture requirements
+Checking test dependency graph...
+Checking test dependency graph end
+test 1
+    Start 1: core_tests
+
+1: Test command: /tmp/lrs-submission-clone-20261019/build/lrs_assignment1/core_tests
+1: Working Directory: /tmp/lrs-submission-clone-20261019/build/lrs_assignment1
+1: Test timeout computed to be: 10000000
+1: All A1.2/A1.3 helper tests passed; maximum tested 50 m ENU approximation error 0.00204311 m
+1/2 Test #1: core_tests .......................   Passed    0.01 sec
+test 2
+    Start 2: path_guard_tests
+
+2: Test command: /tmp/lrs-submission-clone-20261019/build/lrs_assignment1/path_guard_tests
+2: Working Directory: /tmp/lrs-submission-clone-20261019/build/lrs_assignment1
+2: Test timeout computed to be: 10000000
+2: fillBox: minimum je mimo mapy.
+2: fillBox: minimum je mimo mapy.
+2: Mapa bola uspesne nacitana.
+2: Pocet bodov: 3
+2: 
+2: Bounding box:
+2: MIN: x = 0 y = 0 z = 0
+2: MAX: x = 4 y = 4 z = 4
+2: Flight path guard tests passed
+2/2 Test #2: path_guard_tests .................   Passed    0.02 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   0.03 sec
+Finished <<< lrs_assignment1 [0.06s]
+
+Summary: 1 package finished [0.21s]

@@ -1,0 +1,36 @@
+Command: /home/user/ros2_ws/build/lrs_assignment1/core_tests
+All A1.2/A1.3 helper tests passed; maximum tested 50 m ENU approximation error 0.00204311 m
+
+
+Exit code: 0
+Command: /home/user/ros2_ws/build/lrs_assignment1/path_guard_tests /home/user/LRS-URK/maps/FEI_LRS_PCD/map.pcd
+Mapa bola uspesne nacitana.
+Pocet bodov: 3
+
+Bounding box:
+MIN: x = 0 y = 0 z = 0
+MAX: x = 4 y = 4 z = 4
+Mapa bola uspesne nacitana.
+Pocet bodov: 620311
+
+Bounding box:
+MIN: x = -0.3 y = -1.15 z = 0
+MAX: x = 17.95 y = 13.2 z = 5.95041
+A* expanded nodes: 193
+Flight path guard tests passed
+
+fillBox: minimum je mimo mapy.
+fillBox: minimum je mimo mapy.
+
+Exit code: 0
+Command: /home/user/ros2_ws/build/lrs_assignment1/flight_clearance /home/user/LRS-URK/maps/FEI_LRS_PCD/map.pcd /home/user/ros2_ws/src/lrs_assignment1/docs/results/indoor_success.csv 0.35
+Mapa bola uspesne nacitana.
+Pocet bodov: 620311
+
+Bounding box:
+MIN: x = -0.3 y = -1.15 z = 0
+MAX: x = 17.95 y = 13.2 z = 5.95041
+Airborne navigation/hold samples=1213, blocked samples=0, blocked segments=0, inflation=0.35 m
+
+
+Exit code: 0

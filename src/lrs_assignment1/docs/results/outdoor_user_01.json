@@ -1,0 +1,280 @@
+{
+  "bag": "/home/user/ros2_ws/my_recordings/outdoor_test_01",
+  "duration_seconds": 265.984251893,
+  "complete": true,
+  "final_armed": false,
+  "final_mode": "LAND",
+  "state_sequence": [
+    {
+      "seconds": 32.53505229,
+      "stage": "SET_MODE"
+    },
+    {
+      "seconds": 32.573934818,
+      "stage": "ARM"
+    },
+    {
+      "seconds": 34.934071687,
+      "stage": "TAKEOFF"
+    },
+    {
+      "seconds": 47.974082742,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 48.013944269,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 62.534079486,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 62.57388852,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 62.614066685,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 82.05408014,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 82.094063917,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 82.134044205,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 101.813995093,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 101.853877333,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 101.894097301,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 122.054081341,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 122.094035703,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 122.134038662,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 141.573926934,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 141.613969428,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 156.413864306,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 161.493943239,
+      "stage": "FIGURE"
+    },
+    {
+      "seconds": 220.373784221,
+      "stage": "FIGURE_END"
+    },
+    {
+      "seconds": 225.494199783,
+      "stage": "ALIGN"
+    },
+    {
+      "seconds": 226.733968685,
+      "stage": "NAVIGATE"
+    },
+    {
+      "seconds": 227.813863421,
+      "stage": "TASK"
+    },
+    {
+      "seconds": 227.85384522,
+      "stage": "LAND"
+    },
+    {
+      "seconds": 251.573853831,
+      "stage": "DONE"
+    }
+  ],
+  "compass_pose_error_deg": {
+    "samples": 601,
+    "rms": 0.00495910402139921,
+    "max_abs": 0.009975255821232583,
+    "p95_abs": 0.009254380056248186
+  },
+  "max_height_above_first_pose_m": 5.059999942779541,
+  "max_radius_from_first_pose_m": 3.5016893058682785,
+  "per_stage": {
+    "ALIGN": {
+      "position_error_m": {
+        "samples": 3,
+        "rms": 0.019758261823535517,
+        "max_abs": 0.03149747082706439,
+        "p95_abs": 0.029685916788579784
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 3,
+        "rms": 6.8652306398260015,
+        "max_abs": 10.774062656937856,
+        "p95_abs": 10.199691217554514
+      }
+    },
+    "ARM": {
+      "position_error_m": {
+        "samples": 0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 0
+      }
+    },
+    "DONE": {
+      "position_error_m": {
+        "samples": 31,
+        "rms": 5.000034454666863,
+        "max_abs": 5.000034454666862,
+        "p95_abs": 5.000034454666862
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 31,
+        "rms": 0.13639614587588736,
+        "max_abs": 0.1363961458758874,
+        "p95_abs": 0.1363961458758874
+      }
+    },
+    "FIGURE": {
+      "position_error_m": {
+        "samples": 125,
+        "rms": 0.08759502140185618,
+        "max_abs": 0.455641793386097,
+        "p95_abs": 0.09787786502665127
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 125,
+        "rms": 2.5305711375407514,
+        "max_abs": 5.599881538442012,
+        "p95_abs": 5.019151078350227
+      }
+    },
+    "FIGURE_END": {
+      "position_error_m": {
+        "samples": 10,
+        "rms": 0.24631952014173555,
+        "max_abs": 0.4409645955267306,
+        "p95_abs": 0.423284652578277
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 10,
+        "rms": 0.6743542586834722,
+        "max_abs": 0.8335364789861639,
+        "p95_abs": 0.8286540890127095
+      }
+    },
+    "LAND": {
+      "position_error_m": {
+        "samples": 47,
+        "rms": 3.1406547380995415,
+        "max_abs": 5.000034454666862,
+        "p95_abs": 5.000034454666862
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 47,
+        "rms": 0.28666569657813107,
+        "max_abs": 0.4899950392074475,
+        "p95_abs": 0.4683375338777125
+      }
+    },
+    "NAVIGATE": {
+      "position_error_m": {
+        "samples": 228,
+        "rms": 0.5152721184531461,
+        "max_abs": 0.6273988481932247,
+        "p95_abs": 0.6211198543425656
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 228,
+        "rms": 13.098853855411694,
+        "max_abs": 88.7878219954489,
+        "p95_abs": 1.048547361894412
+      }
+    },
+    "SET_MODE": {
+      "position_error_m": {
+        "samples": 0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 0
+      }
+    },
+    "TAKEOFF": {
+      "position_error_m": {
+        "samples": 17,
+        "rms": 2.2620683019608747,
+        "max_abs": 4.480000019073486,
+        "p95_abs": 4.248000001907348
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 17,
+        "rms": 0.02704041778573632,
+        "max_abs": 0.037354341403213226,
+        "p95_abs": 0.0358056760502227
+      }
+    },
+    "TASK": {
+      "position_error_m": {
+        "samples": 11,
+        "rms": 0.029765546638172487,
+        "max_abs": 0.05797959314464738,
+        "p95_abs": 0.05396078515401069
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 11,
+        "rms": 42.84084744591702,
+        "max_abs": 87.51641526542198,
+        "p95_abs": 81.28815700658411
+      }
+    },
+    "WAIT": {
+      "position_error_m": {
+        "samples": 0
+      },
+      "yaw_tracking_error_deg": {
+        "samples": 0
+      }
+    }
+  },
+  "command_timing": {
+    "count": 4677,
+    "median_hz": 25.00082033942029,
+    "largest_gap_seconds": 0.04224273099998754
+  },
+  "figure_extent_m": {
+    "flown_x": 6.060263156890869,
+    "flown_y": 3.105795741081238,
+    "commanded_x": 5.998638916096469,
+    "commanded_y": 2.9997981936584175
+  },
+  "navigation_poi_error_outside_1m_deg": {
+    "samples": 205,
+    "rms": 2.269038954676894,
+    "max_abs": 4.450510474314628,
+    "p95_abs": 3.73741409974423
+  }
+}

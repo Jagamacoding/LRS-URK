@@ -1,0 +1,506 @@
+[
+  {
+    "mission": "exam_example",
+    "radius": 0.5,
+    "leg": 1,
+    "start": [
+      13.0,
+      7.0,
+      1.0
+    ],
+    "goal": [
+      8.65,
+      2.02,
+      1.0
+    ],
+    "exit": 0,
+    "time_ms": "0.961",
+    "raw": "21",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.135085289000017
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.5,
+    "leg": 2,
+    "start": [
+      8.65,
+      2.02,
+      1.0
+    ],
+    "goal": [
+      4.84,
+      5.37,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "3.258",
+    "raw": "20",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.8307029989998682
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.5,
+    "leg": 3,
+    "start": [
+      4.84,
+      5.37,
+      2.0
+    ],
+    "goal": [
+      2.08,
+      9.74,
+      1.75
+    ],
+    "exit": 0,
+    "time_ms": "13.019",
+    "raw": "28",
+    "simplified": "5",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.9060697869999785
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.5,
+    "leg": 4,
+    "start": [
+      2.08,
+      9.74,
+      1.75
+    ],
+    "goal": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "12.835",
+    "raw": "29",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.9518550079999386
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.5,
+    "leg": 5,
+    "start": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "goal": [
+      2.81,
+      8.15,
+      1.5
+    ],
+    "exit": 0,
+    "time_ms": "1.666",
+    "raw": "26",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.8932338679999248
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.5,
+    "leg": 6,
+    "start": [
+      2.81,
+      8.15,
+      1.5
+    ],
+    "goal": [
+      13.6,
+      1.5,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "11.326",
+    "raw": "48",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.8577982100000554
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.5,
+    "leg": 1,
+    "start": [
+      13.0,
+      7.0,
+      1.0
+    ],
+    "goal": [
+      13.6,
+      11.5,
+      1.5
+    ],
+    "exit": 0,
+    "time_ms": "1.834",
+    "raw": "19",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.898075259000052
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.5,
+    "leg": 2,
+    "start": [
+      13.6,
+      11.5,
+      1.5
+    ],
+    "goal": [
+      2.81,
+      8.15,
+      1.75
+    ],
+    "exit": 0,
+    "time_ms": "22.749",
+    "raw": "44",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.1289819989999614
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.5,
+    "leg": 3,
+    "start": [
+      2.81,
+      8.15,
+      1.75
+    ],
+    "goal": [
+      4.84,
+      9.74,
+      1.25
+    ],
+    "exit": 0,
+    "time_ms": "1.303",
+    "raw": "9",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.3336610190001466
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.5,
+    "leg": 4,
+    "start": [
+      4.84,
+      9.74,
+      1.25
+    ],
+    "goal": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "5.088",
+    "raw": "18",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.2848430060000737
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.5,
+    "leg": 5,
+    "start": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "goal": [
+      4.84,
+      5.37,
+      1.0
+    ],
+    "exit": 0,
+    "time_ms": "3.245",
+    "raw": "19",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.2455853200001457
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.5,
+    "leg": 6,
+    "start": [
+      4.84,
+      5.37,
+      1.0
+    ],
+    "goal": [
+      13.6,
+      1.5,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "22.334",
+    "raw": "36",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.0967908530001296
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.65,
+    "leg": 1,
+    "start": [
+      13.0,
+      7.0,
+      1.0
+    ],
+    "goal": [
+      8.65,
+      2.02,
+      1.0
+    ],
+    "exit": 0,
+    "time_ms": "1.085",
+    "raw": "21",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.980080173000033
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.65,
+    "leg": 2,
+    "start": [
+      8.65,
+      2.02,
+      1.0
+    ],
+    "goal": [
+      4.84,
+      5.37,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "3.784",
+    "raw": "21",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.8966942320000726
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.65,
+    "leg": 3,
+    "start": [
+      4.84,
+      5.37,
+      2.0
+    ],
+    "goal": [
+      2.08,
+      9.74,
+      1.75
+    ],
+    "exit": 0,
+    "time_ms": "31.995",
+    "raw": "30",
+    "simplified": "5",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.1583820010000636
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.65,
+    "leg": 4,
+    "start": [
+      2.08,
+      9.74,
+      1.75
+    ],
+    "goal": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "11.859",
+    "raw": "30",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.2245746619998954
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.65,
+    "leg": 5,
+    "start": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "goal": [
+      2.81,
+      8.15,
+      1.5
+    ],
+    "exit": 0,
+    "time_ms": "2.376",
+    "raw": "27",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.1836545640001077
+  },
+  {
+    "mission": "exam_example",
+    "radius": 0.65,
+    "leg": 6,
+    "start": [
+      2.81,
+      8.15,
+      1.5
+    ],
+    "goal": [
+      13.6,
+      1.5,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "17.167",
+    "raw": "49",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.4158743430000413
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.65,
+    "leg": 1,
+    "start": [
+      13.0,
+      7.0,
+      1.0
+    ],
+    "goal": [
+      13.6,
+      11.5,
+      1.5
+    ],
+    "exit": 0,
+    "time_ms": "2.548",
+    "raw": "19",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.2784341489998496
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.65,
+    "leg": 2,
+    "start": [
+      13.6,
+      11.5,
+      1.5
+    ],
+    "goal": [
+      2.81,
+      8.15,
+      1.75
+    ],
+    "exit": 0,
+    "time_ms": "18.060",
+    "raw": "44",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.9980921609999314
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.65,
+    "leg": 3,
+    "start": [
+      2.81,
+      8.15,
+      1.75
+    ],
+    "goal": [
+      4.84,
+      9.74,
+      1.25
+    ],
+    "exit": 0,
+    "time_ms": "0.988",
+    "raw": "9",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.9597785039998143
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.65,
+    "leg": 4,
+    "start": [
+      4.84,
+      9.74,
+      1.25
+    ],
+    "goal": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "4.704",
+    "raw": "19",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 0.9480131630000415
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.65,
+    "leg": 5,
+    "start": [
+      8.84,
+      6.9,
+      2.0
+    ],
+    "goal": [
+      4.84,
+      5.37,
+      1.0
+    ],
+    "exit": 0,
+    "time_ms": "3.342",
+    "raw": "20",
+    "simplified": "3",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.084412618999977
+  },
+  {
+    "mission": "mission_3_all",
+    "radius": 0.65,
+    "leg": 6,
+    "start": [
+      4.84,
+      5.37,
+      1.0
+    ],
+    "goal": [
+      13.6,
+      1.5,
+      2.0
+    ],
+    "exit": 0,
+    "time_ms": "23.279",
+    "raw": "36",
+    "simplified": "2",
+    "reported_collision_free": "ANO",
+    "elapsed_s": 1.1967815870000322
+  }
+]

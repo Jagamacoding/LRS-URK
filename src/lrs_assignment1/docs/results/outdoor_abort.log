@@ -1,0 +1,40 @@
+[INFO] [1791034948.494079729] [mission_control]: Ready: outdoor mission; waiting for connected, fresh ground telemetry
+[INFO] [1791034948.574200586] [mission_control]: Waiting for telemetry: connected=0 local=0 landed=0 gps=0
+[INFO] [1791034952.854223664] [mission_control]: Geodetic goal 48.151444300 17.073750000 198.704
+[INFO] [1791034952.854307972] [mission_control]: Geodetic goal 48.151466783 17.073716401 198.704
+[INFO] [1791034952.854323681] [mission_control]: Geodetic goal 48.151466783 17.073783599 198.704
+[INFO] [1791034952.854335502] [mission_control]: Geodetic goal 48.151421817 17.073783599 198.704
+[INFO] [1791034952.854346261] [mission_control]: Geodetic goal 48.151421817 17.073716401 198.704
+[INFO] [1791034952.854357393] [mission_control]: Geodetic goal 48.151466783 17.073716401 198.704
+[INFO] [1791034952.854624995] [mission_control]: State: SET_MODE
+[INFO] [1791034952.854887835] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034952.894246264] [mission_control]: State: ARM
+[INFO] [1791034953.854196379] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034954.854315779] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034955.894293638] [mission_control]: State: TAKEOFF
+[INFO] [1791034955.894372371] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034956.934403443] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034957.974182979] [mission_control]: GPS 48.151444300 17.073750000 alt 193.70; GPS ENU 0.00 0.00 0.00; local->geo 48.151444300 17.073750000; rel_alt 0.00; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034958.974347544] [mission_control]: GPS 48.151444300 17.073750000 alt 194.11; GPS ENU 0.00 0.00 0.41; local->geo 48.151444300 17.073750000; rel_alt 0.41; compass 45.0 -> ENU 45.0; pose yaw 45.0; delta -0.0 deg
+[INFO] [1791034960.014411319] [mission_control]: GPS 48.151444300 17.073750000 alt 195.67; GPS ENU 0.00 0.00 1.97; local->geo 48.151444300 17.073750000; rel_alt 1.98; compass 45.0 -> ENU 45.0; pose yaw 45.0; delta -0.0 deg
+[INFO] [1791034961.054445671] [mission_control]: GPS 48.151444300 17.073750000 alt 197.65; GPS ENU 0.00 0.00 3.95; local->geo 48.151444300 17.073750000; rel_alt 3.95; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034962.094259704] [mission_control]: GPS 48.151444300 17.073750000 alt 198.65; GPS ENU 0.00 0.00 4.95; local->geo 48.151444300 17.073750000; rel_alt 4.95; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034963.094306621] [mission_control]: GPS 48.151444300 17.073750000 alt 198.73; GPS ENU 0.00 0.00 5.03; local->geo 48.151444300 17.073750000; rel_alt 5.03; compass 44.9 -> ENU 45.1; pose yaw 45.1; delta -0.0 deg
+[INFO] [1791034963.414325461] [mission_control]: State: ALIGN
+[INFO] [1791034963.454179213] [mission_control]: State: NAVIGATE
+[INFO] [1791034964.134259280] [mission_control]: GPS 48.151444600 17.073749600 alt 198.71; GPS ENU -0.03 0.03 5.01; local->geo 48.151444600 17.073749601; rel_alt 5.01; compass 76.1 -> ENU 13.9; pose yaw 13.9; delta -0.0 deg
+[INFO] [1791034965.134317970] [mission_control]: GPS 48.151447300 17.073745700 alt 198.70; GPS ENU -0.32 0.33 5.00; local->geo 48.151447303 17.073745708; rel_alt 5.00; compass 134.0 -> ENU -44.0; pose yaw -44.0; delta -0.0 deg
+[INFO] [1791034966.174236135] [mission_control]: GPS 48.151450900 17.073740200 alt 198.71; GPS ENU -0.73 0.73 5.01; local->geo 48.151450907 17.073740218; rel_alt 5.01; compass 135.7 -> ENU -45.7; pose yaw -45.7; delta -0.0 deg
+[INFO] [1791034967.214218754] [mission_control]: GPS 48.151454900 17.073734200 alt 198.71; GPS ENU -1.18 1.18 5.01; local->geo 48.151454912 17.073734229; rel_alt 5.01; compass 135.8 -> ENU -45.8; pose yaw -45.8; delta -0.0 deg
+[INFO] [1791034968.254434354] [mission_control]: GPS 48.151458600 17.073728600 alt 198.70; GPS ENU -1.59 1.59 5.00; local->geo 48.151458616 17.073728640; rel_alt 5.00; compass 135.5 -> ENU -45.5; pose yaw -45.5; delta -0.0 deg
+[INFO] [1791034969.294250226] [mission_control]: GPS 48.151462500 17.073722800 alt 198.70; GPS ENU -2.02 2.02 5.00; local->geo 48.151462521 17.073722851; rel_alt 5.00; compass 135.4 -> ENU -45.4; pose yaw -45.4; delta -0.0 deg
+[INFO] [1791034970.294765380] [mission_control]: GPS 48.151465600 17.073717800 alt 198.70; GPS ENU -2.40 2.37 5.00; local->geo 48.151465624 17.073717860; rel_alt 5.00; compass 135.2 -> ENU -45.3; pose yaw -45.3; delta -0.0 deg
+[INFO] [1791034971.334271980] [mission_control]: GPS 48.151466500 17.073716900 alt 198.70; GPS ENU -2.46 2.47 5.00; local->geo 48.151466525 17.073716962; rel_alt 5.00; compass 135.1 -> ENU -45.1; pose yaw -45.1; delta -0.0 deg
+[INFO] [1791034971.654210767] [mission_control]: State: TASK
+[INFO] [1791034971.694239901] [mission_control]: State: ALIGN
+[INFO] [1791034971.734241030] [mission_control]: State: NAVIGATE
+[INFO] [1791034972.334286901] [mission_control]: GPS 48.151466600 17.073716800 alt 198.70; GPS ENU -2.47 2.48 5.00; local->geo 48.151466625 17.073716862; rel_alt 5.00; compass 135.4 -> ENU -45.4; pose yaw -45.4; delta -0.0 deg
+[INFO] [1791034973.334349014] [mission_control]: GPS 48.151466600 17.073722000 alt 198.70; GPS ENU -2.08 2.48 5.00; local->geo 48.151466625 17.073722052; rel_alt 5.00; compass 139.0 -> ENU -49.0; pose yaw -49.0; delta -0.0 deg
+[INFO] [1791034973.480796042] [mission_control]: State: ABORT
+[ERROR] [1791034973.480908516] [mission_control]: Operator abort
+[INFO] [1791035057.134023409] [rclcpp]: signal_handler(SIGINT/SIGTERM)

@@ -1,0 +1,28 @@
+Mapa bola uspesne nacitana.
+Pocet bodov: 620311
+
+Bounding box:
+MIN: x = -0.3 y = -1.15 z = 0
+MAX: x = 17.95 y = 13.2 z = 5.95041
+A* expanded nodes: 85
+[INFO] [1791035151.020571139] [mission_control]: Leg 1: 23 -> 2 points, 4.47 ms
+A* expanded nodes: 534
+[INFO] [1791035151.041439415] [mission_control]: Leg 2: 23 -> 3 points, 20.71 ms
+A* expanded nodes: 2099
+[WARN] [1791035151.121166180] [mission_control]: Leg 3: simplified route rejected by flight validator; using raw A* route
+[INFO] [1791035151.121335190] [mission_control]: Leg 3: 32 -> 32 points, 79.86 ms
+A* expanded nodes: 1546
+[INFO] [1791035151.183417885] [mission_control]: Leg 4: 32 -> 3 points, 62.06 ms
+A* expanded nodes: 216
+[INFO] [1791035151.191891409] [mission_control]: Leg 5: 29 -> 3 points, 8.43 ms
+A* expanded nodes: 1950
+[INFO] [1791035151.264038655] [mission_control]: Leg 6: 51 -> 3 points, 72.09 ms
+[INFO] [1791035151.286623890] [mission_control]: Ready: indoor mission; waiting for connected, fresh ground telemetry
+[INFO] [1791035151.326878158] [mission_control]: Waiting for telemetry: connected=0 local=0 landed=0 gps=1
+[INFO] [1791035153.166962605] [mission_control]: State: SET_MODE
+[INFO] [1791035153.206780397] [mission_control]: State: ARM
+[INFO] [1791035156.206798580] [mission_control]: State: TAKEOFF
+[INFO] [1791035167.966861015] [mission_control]: State: ALIGN
+[INFO] [1791035253.886802363] [mission_control]: State: ABORT
+[ERROR] [1791035253.886864461] [mission_control]: MAVROS telemetry stale/disconnected
+[INFO] [1791035427.777944781] [rclcpp]: signal_handler(SIGINT/SIGTERM)

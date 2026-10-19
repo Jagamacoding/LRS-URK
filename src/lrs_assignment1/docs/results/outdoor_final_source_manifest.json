@@ -1,0 +1,26 @@
+{
+  "checked_utc": "2026-10-05T13:26:48.430196+00:00",
+  "ros_domain_id": 47,
+  "gazebo_partition": "lrs_final_recheck",
+  "use_sim_time": true,
+  "controller_executable": "/home/user/ros2_ws/install/lrs_assignment1/lib/lrs_assignment1/mission_node",
+  "controller_sha256": "6c6400d9449a84734caec9b6fcd90fdefb617678b5573a65190998066b64a324",
+  "source_sha256": {
+    "CMakeLists.txt": "b7ac6ff9f3df82b897c5a463434150190a0a13b6ffd3535d6f830730dfcc6288",
+    "config/indoor.yaml": "47f792b09b94273336e744d098ce112688fbfc8a5a560eb2de036a3291dd6d05",
+    "config/outdoor.yaml": "583e85a4c44630ccc4fefcbf9c5e9f57bbdaf2efbc3965486f87fd3df3766761",
+    "include/lrs_assignment1/astar_planner.hpp": "41cfde4b80fbd748af72f8079eeb6c818f6207eb4d462e40ed4dfee55f3d1aa9",
+    "include/lrs_assignment1/flight_path_guard.hpp": "7b64965b0188578ee0add5812fb692d31ca2ead9c595373ce96222d2c45386dd",
+    "include/lrs_assignment1/mission_file.hpp": "4bbd75a03c50bd034d8f0c2d12d0119d0ee6de753e3939bf20c0befc1c1b31c6",
+    "include/lrs_assignment1/mission_math.hpp": "48b79ac46c89642bc578cd738d7c81626397f998ff495382b9a972c477db8480",
+    "include/lrs_assignment1/voxel_map.hpp": "e3e7b53a054229ca9a433e66db0034bca11203db88119f503ff4acc6fbec8b41",
+    "missions/indoor.csv": "518f84ddcc916b02dbf74bf3dd7a29841465cafe508c17a03c48344d449a772e",
+    "missions/indoor_alternative.csv": "5a81c807205b3a17dc4ffb7b5e4da9957dee212bb16e8d99afa1972c8f498d78",
+    "package.xml": "f34f2584374cbccf4b8ec2ca38c2c68c042b773c549b98fd36202e65c6198ea7",
+    "src/astar_planner.cpp": "778ed41b48990946e3094b51b79b01ee729878f1e22dd37571bc9222b8ab81e0",
+    "src/map_loader.cpp": "10cc8ad3f1a9089ca0f580c0da278383fbd1d3a15b9a5f21e770c5da2597aece",
+    "src/mission_node.cpp": "276c2246aa860e01fd71cd0c7ce077f0c1b38a2c0a5a488d033ccaeabf673c01",
+    "src/planner_test.cpp": "59d62ed79a143f21911b1408c86f7fb198e57cf5d3dc3e4c5ba670137efd9a67",
+    "src/voxel_map.cpp": "1c18c1733b7b6931ebd82bc206e0119ad93a7b0f06456cff940081009dc92358"
+  }
+}

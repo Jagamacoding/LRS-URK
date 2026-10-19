@@ -1,0 +1,144 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/lib/ccache/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/lib/ccache/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /home/user/venv-ardupilot/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found rclcpp: 28.1.21 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.4 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found geometry_msgs: 5.3.8 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+-- Found sensor_msgs: 5.3.8 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+-- Found std_srvs: 5.3.8 (/opt/ros/jazzy/share/std_srvs/cmake)
+-- Found mavros_msgs: 2.14.0 (/opt/ros/jazzy/share/mavros_msgs/cmake)
+-- Found nav_msgs: 5.3.8 (/opt/ros/jazzy/share/nav_msgs/cmake)
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.83.0/BoostConfig.cmake (found suitable version "1.83.0", minimum required is "1.65.0") found components: system filesystem iostreams serialization 
+-- Checking for module 'libusb-1.0'
+--   Found libusb-1.0, version 1.0.27
+-- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+-- Found OpenNI: /usr/lib/libOpenNI.so;libusb::libusb (found version "1.5.4.0") 
+-- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+-- Found OpenNI2: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb (found version "2.2.0.33") 
+-- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+-- Could NOT find Pcap (missing: PCAP_LIBRARIES PCAP_INCLUDE_DIRS) 
+** WARNING ** io features related to pcap will be disabled
+-- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.3")  
+-- Found PNG: /usr/lib/x86_64-linux-gnu/libpng.so (found version "1.6.43") 
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found GLEW: /usr/lib/x86_64-linux-gnu/libGLEW.so  
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so  found components: OpenGL GLX 
+-- Found MPI_C: /usr/lib/x86_64-linux-gnu/libmpi.so (found version "3.1") 
+-- Found MPI: TRUE (found version "3.1") found components: C 
+-- Found JsonCpp: /usr/lib/x86_64-linux-gnu/libjsoncpp.so (found suitable version "1.9.5", minimum required is "0.7.0") 
+-- Found Eigen3: /usr/include/eigen3 (found version "3.4.0") 
+-- Found X11: /usr/include   
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- Found EXPAT: /usr/lib/x86_64-linux-gnu/libexpat.so (found version "2.6.1") 
+-- Found double-conversion: /usr/lib/x86_64-linux-gnu/libdouble-conversion.so  
+-- Found LZ4: /usr/lib/x86_64-linux-gnu/liblz4.so (found version "1.9.4") 
+-- Found LZMA: /usr/lib/x86_64-linux-gnu/liblzma.so (found version "5.4.5") 
+-- Found JPEG: /usr/lib/x86_64-linux-gnu/libjpeg.so (found version "80") 
+-- Found TIFF: /usr/lib/x86_64-linux-gnu/libtiff.so (found version "4.5.1")  
+-- Found Freetype: /usr/lib/x86_64-linux-gnu/libfreetype.so (found version "2.13.2") 
+-- Found utf8cpp: /usr/include/utf8cpp  
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP: TRUE (found version "4.5") found components: CXX 
+-- looking for PCL_COMMON
+-- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+-- looking for PCL_OCTREE
+-- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+-- looking for PCL_IO
+-- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+-- Found PCL: pcl_common;pcl_octree;pcl_io;Boost::system;Boost::filesystem;Boost::iostreams;Boost::serialization;/usr/lib/libOpenNI.so;libusb::libusb;/usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb;VTK::ChartsCore;VTK::CommonColor;VTK::CommonComputationalGeometry;VTK::CommonCore;VTK::CommonDataModel;VTK::CommonExecutionModel;VTK::CommonMath;VTK::CommonMisc;VTK::CommonTransforms;VTK::FiltersCore;VTK::FiltersExtraction;VTK::FiltersGeneral;VTK::FiltersGeometry;VTK::FiltersModeling;VTK::FiltersSources;VTK::ImagingCore;VTK::ImagingSources;VTK::InteractionImage;VTK::InteractionStyle;VTK::InteractionWidgets;VTK::IOCore;VTK::IOGeometry;VTK::IOImage;VTK::IOLegacy;VTK::IOPLY;VTK::RenderingAnnotation;VTK::RenderingCore;VTK::RenderingContext2D;VTK::RenderingLOD;VTK::RenderingFreeType;VTK::ViewsCore;VTK::ViewsContext2D;VTK::RenderingOpenGL2;VTK::RenderingContextOpenGL2;VTK::GUISupportQt  
+-- Configuring done (5.4s)
+-- Generating done (0.1s)
+-- Build files have been written to: /tmp/lrs-clean-check/build/lrs_assignment1
+[ 12%] Building CXX object CMakeFiles/core_tests.dir/test/core_tests.cpp.o
+[ 12%] Building CXX object CMakeFiles/voxel_map.dir/src/voxel_map.cpp.o
+[ 18%] Linking CXX executable core_tests
+[ 18%] Built target core_tests
+[ 25%] Linking CXX static library libvoxel_map.a
+[ 25%] Built target voxel_map
+[ 37%] Building CXX object CMakeFiles/astar_planner.dir/src/astar_planner.cpp.o
+[ 37%] Building CXX object CMakeFiles/map_loader.dir/src/map_loader.cpp.o
+[ 43%] Linking CXX executable map_loader
+[ 50%] Linking CXX static library libastar_planner.a
+[ 50%] Built target astar_planner
+[ 68%] Building CXX object CMakeFiles/flight_clearance.dir/test/flight_clearance.cpp.o
+[ 68%] Building CXX object CMakeFiles/planner_test.dir/src/planner_test.cpp.o
+[ 68%] Building CXX object CMakeFiles/path_guard_tests.dir/test/path_guard_tests.cpp.o
+[ 75%] Building CXX object CMakeFiles/mission_node.dir/src/mission_node.cpp.o
+[ 75%] Built target map_loader
+[ 81%] Linking CXX executable planner_test
+[ 87%] Linking CXX executable path_guard_tests
+[ 87%] Built target planner_test
+[ 87%] Built target path_guard_tests
+[ 93%] Linking CXX executable flight_clearance
+[ 93%] Built target flight_clearance
+[100%] Linking CXX executable mission_node
+[100%] Built target mission_node
+-- Install configuration: ""
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/lib/lrs_assignment1/libvoxel_map.a
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/lib/lrs_assignment1/libastar_planner.a
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/lib/lrs_assignment1/map_loader
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/lib/lrs_assignment1/planner_test
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/include/
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/include//lrs_assignment1
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/include//lrs_assignment1/voxel_map.hpp
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/include//lrs_assignment1/mission_file.hpp
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/include//lrs_assignment1/astar_planner.hpp
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/include//lrs_assignment1/mission_math.hpp
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/include//lrs_assignment1/flight_path_guard.hpp
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/lib/lrs_assignment1/mission_node
+-- Set non-toolchain portion of runtime path of "/tmp/lrs-clean-check/install/lrs_assignment1/lib/lrs_assignment1/mission_node" to ""
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/config
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/config/indoor.yaml
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/config/outdoor.yaml
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/missions
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/missions/indoor_alternative.csv
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/missions/indoor.csv
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/README.md
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/lib/lrs_assignment1/analyze_bag.py
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/ament_index/resource_index/package_run_dependencies/lrs_assignment1
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/ament_index/resource_index/parent_prefix_path/lrs_assignment1
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/environment/ament_prefix_path.sh
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/environment/ament_prefix_path.dsv
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/environment/path.sh
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/environment/path.dsv
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/local_setup.bash
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/local_setup.sh
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/local_setup.zsh
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/local_setup.dsv
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/package.dsv
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/ament_index/resource_index/packages/lrs_assignment1
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/cmake/lrs_assignment1Config.cmake
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/cmake/lrs_assignment1Config-version.cmake
+-- Installing: /tmp/lrs-clean-check/install/lrs_assignment1/share/lrs_assignment1/package.xml

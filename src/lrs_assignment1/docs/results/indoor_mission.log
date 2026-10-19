@@ -1,0 +1,69 @@
+Mapa bola uspesne nacitana.
+Pocet bodov: 620311
+
+Bounding box:
+MIN: x = -0.3 y = -1.15 z = 0
+MAX: x = 17.95 y = 13.2 z = 5.95041
+A* expanded nodes: 85
+[INFO] [1791035735.182477308] [mission_control]: Leg 1: 23 -> 2 points, 6.21 ms
+A* expanded nodes: 534
+[INFO] [1791035735.210143936] [mission_control]: Leg 2: 23 -> 3 points, 27.34 ms
+A* expanded nodes: 2099
+[WARN] [1791035735.308734693] [mission_control]: Leg 3: simplified route rejected by flight validator; using raw A* route
+[INFO] [1791035735.308954761] [mission_control]: Leg 3: 32 -> 32 points, 98.75 ms
+A* expanded nodes: 1546
+[INFO] [1791035735.393434528] [mission_control]: Leg 4: 32 -> 3 points, 84.45 ms
+A* expanded nodes: 216
+[INFO] [1791035735.402553290] [mission_control]: Leg 5: 29 -> 3 points, 9.06 ms
+A* expanded nodes: 1950
+[INFO] [1791035735.532246924] [mission_control]: Leg 6: 51 -> 3 points, 129.66 ms
+[INFO] [1791035735.628882002] [mission_control]: Ready: indoor mission; waiting for connected, fresh ground telemetry
+[INFO] [1791035735.669173136] [mission_control]: Waiting for telemetry: connected=0 local=1 landed=1 gps=1
+[INFO] [1791035741.189530607] [mission_control]: State: SET_MODE
+[INFO] [1791035741.229036406] [mission_control]: State: ARM
+[INFO] [1791035743.589308584] [mission_control]: State: TAKEOFF
+[INFO] [1791035756.869170116] [mission_control]: State: NAVIGATE
+[INFO] [1791035785.949163214] [mission_control]: State: TASK
+[INFO] [1791035785.989101773] [mission_control]: State: ALIGN
+[INFO] [1791035791.189422149] [mission_control]: State: NAVIGATE
+[INFO] [1791035798.789108288] [mission_control]: State: ALIGN
+[INFO] [1791035800.629031301] [mission_control]: State: NAVIGATE
+[INFO] [1791035819.789157974] [mission_control]: State: TASK
+[INFO] [1791035823.309315128] [mission_control]: State: ALIGN
+[INFO] [1791035826.709138771] [mission_control]: State: NAVIGATE
+[INFO] [1791035835.669160950] [mission_control]: State: ALIGN
+[INFO] [1791035837.509115228] [mission_control]: State: NAVIGATE
+[INFO] [1791035841.029176136] [mission_control]: State: ALIGN
+[INFO] [1791035842.749296947] [mission_control]: State: NAVIGATE
+[INFO] [1791035842.789170307] [mission_control]: State: ALIGN
+[INFO] [1791035844.029078145] [mission_control]: State: NAVIGATE
+[INFO] [1791035853.869179449] [mission_control]: State: ALIGN
+[INFO] [1791035856.029128528] [mission_control]: State: NAVIGATE
+[INFO] [1791035862.469145819] [mission_control]: State: ALIGN
+[INFO] [1791035862.949043763] [mission_control]: State: NAVIGATE
+[INFO] [1791035867.229403148] [mission_control]: State: ALIGN
+[INFO] [1791035868.709295264] [mission_control]: State: NAVIGATE
+[INFO] [1791035891.429065216] [mission_control]: State: TASK
+[INFO] [1791035891.469257820] [mission_control]: State: ALIGN
+[INFO] [1791035898.949027785] [mission_control]: State: NAVIGATE
+[INFO] [1791035929.029147448] [mission_control]: State: ALIGN
+[INFO] [1791035931.389154293] [mission_control]: State: NAVIGATE
+[INFO] [1791035942.589070776] [mission_control]: State: TASK
+[INFO] [1791035942.629197003] [mission_control]: State: LAND
+[INFO] [1791035977.428983680] [mission_control]: State: GROUND
+[INFO] [1791035980.429070825] [mission_control]: State: SET_MODE
+[INFO] [1791035980.509059013] [mission_control]: State: ARM
+[INFO] [1791035984.549248855] [mission_control]: State: TAKEOFF
+[INFO] [1791035997.789243737] [mission_control]: State: ALIGN
+[INFO] [1791036005.189162806] [mission_control]: State: NAVIGATE
+[INFO] [1791036014.429157169] [mission_control]: State: ALIGN
+[INFO] [1791036017.349175095] [mission_control]: State: NAVIGATE
+[INFO] [1791036043.029066829] [mission_control]: State: TASK
+[INFO] [1791036049.069101844] [mission_control]: State: ALIGN
+[INFO] [1791036053.549111261] [mission_control]: State: NAVIGATE
+[INFO] [1791036076.509092348] [mission_control]: State: ALIGN
+[INFO] [1791036079.109326048] [mission_control]: State: NAVIGATE
+[INFO] [1791036120.629108960] [mission_control]: State: TASK
+[INFO] [1791036120.669250465] [mission_control]: State: LAND
+[INFO] [1791036156.229060881] [mission_control]: State: DONE
+[INFO] [1791036184.996479691] [rclcpp]: signal_handler(SIGINT/SIGTERM)
