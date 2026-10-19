@@ -1,0 +1,17 @@
+# Copyright (c) 2026 STU FEI URK
+# SPDX-License-Identifier: MIT
+mission_control:
+  ros__parameters:
+    mission_type: outdoor
+    poi_east: 0.0
+    poi_north: 0.0
+    altitude: 5.0
+    square_side: 5.0
+    amplitude: 3.0
+    omega: 0.2
+    laps: 1
+    min_satellites: 8
+    geofence_radius: 15.0
+    geofence_altitude: 8.0
+    hard_tolerance: 0.18
+    settle_seconds: 1.0

@@ -24,3 +24,12 @@ __pycache__/
 *.bag
 *.db3
 *.mcap
+
+# Lokálne merania, prehrávanie a rozbalené archívy
+my_recordings/
+replay_*/
+/src/lrs_assignment1/recordings/*/
+.pytest_cache/
+
+# Lokálny čistý klon používaný na overenie odovzdania
+/.submission-verification/

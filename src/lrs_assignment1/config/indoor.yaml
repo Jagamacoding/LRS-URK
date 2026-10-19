@@ -1,0 +1,20 @@
+# Copyright (c) 2026 STU FEI URK
+# SPDX-License-Identifier: MIT
+mission_control:
+  ros__parameters:
+    mission_type: indoor
+    map_origin_x: 13.0
+    map_origin_y: 7.0
+    map_origin_z: 0.0
+    map_to_local_yaw: 1.5707963267948966
+    voxel_size: 0.25
+    safety_radius: 0.65
+    hard_tolerance: 0.18
+    soft_tolerance: 0.4
+    path_tolerance: 0.35
+    settle_seconds: 1.0
+    settle_speed: 0.15
+    yaw_hold_seconds: 2.0
+    navigation_speed: 0.6
+    # Headless hangar simulation runs slower than real time on this machine.
+    telemetry_timeout: 6.0
